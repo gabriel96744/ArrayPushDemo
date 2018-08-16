@@ -1,5 +1,5 @@
-var firstName = [];
-var lastName = [];
+var firstName = [];//start with empty array
+var lastName = [];//start with empty array
 
 
 var userFirst = prompt("FirstName");
